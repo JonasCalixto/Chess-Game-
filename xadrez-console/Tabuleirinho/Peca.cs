@@ -18,5 +18,10 @@ namespace Tabuleirinho
             this.cor = cor;
             this.qteMovimentos = 0;
         }
+
+        public void incrementarQntMovimentos()
+        {
+            qteMovimentos++;
+        }
     }
 }
