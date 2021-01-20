@@ -1,6 +1,6 @@
 ﻿
 
-namespace xadrez_console.Tabuleirinho
+namespace Tabuleirinho
 {
     enum Cor
     {
